@@ -1,7 +1,7 @@
 # Documentation: Info
 
 A brief overview how Info part of PancakeSwap website works.
-
+^_^
 ## Code structure
 
 In terms of React components Info section is just another view (located in [src/views/Info](../src/views/Info)) that is assigned route (in [App.tsx](../src/App.tsx)).  
